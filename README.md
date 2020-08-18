@@ -1,5 +1,5 @@
 # baneberry pi
-<img align="right" src=https://github.com/diskurse/baneberry/blob/master/images/imageedit_4_2684878937.jpg?raw=true">
+<img align="right" src=https://github.com/diskurse/baneberry/blob/master/images/imageedit_4_2684878937.jpg">
 
 Baneberry is an intentionally vulnerable raspbian image with logging designed to be shipped and ingested by a SIEM.
 
