@@ -4,9 +4,13 @@
 </p>
 Baneberry is an intentionally vulnerable raspbian image with logging designed to be shipped and ingested by a SIEM.
 <br><br>
-This is intended to be an educational tool to learn about red team tools, Linux logging and log analysis in SIEMs.
+This is intended to be an educational aid to learn about red team tools, Linux logging and log file analysis in SIEMs.
 
 ## Usage
+
+Details about log shipping setup, default logins for access, configurable services and vulnerabilities.
+
+Warning, do not allow this image to be directly accessible from the internet, keep it behind a firewall.
 
 ## Data Sources
 
