@@ -10,4 +10,14 @@ This is intended to be an educational tool to learn about red team tools, Linux 
 
 ## Data Sources
 
++ auditd
++ Apache
++ MySQL 
++ SAMBA
++ BIND
++ syslog
++ /var/log/secure
++ /var/log/auth.log
++ 
+
 ## Services Running
