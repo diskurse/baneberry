@@ -12,6 +12,10 @@ Details about log shipping setup, default logins for access, configurable servic
 
 Warning, do not allow this image to be directly accessible from the internet, keep it behind a firewall.
 
+## Exploits Covered
+
++ shellshock
+
 ## Data Sources
 
 + auditd
