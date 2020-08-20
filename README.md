@@ -18,6 +18,6 @@ This is intended to be an educational tool to learn about red team tools, Linux 
 + syslog
 + /var/log/secure
 + /var/log/auth.log
-+ 
++ /var/log/faillog
 
 ## Services Running
